@@ -4,4 +4,3 @@ from utils.repository import SQLAlchemyRepository
 
 class UsersRepository(SQLAlchemyRepository):
     model = Users
-
